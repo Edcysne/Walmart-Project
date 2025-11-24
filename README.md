@@ -4,8 +4,8 @@ This is a data analysis project that simulates a real-life problem faced by Walm
 
 ### Main Tools 
 
-💾 SQL - For querying the data
-🐍 Python - For EDA
+💾 SQL - For querying the data <br/>
+🐍 Python - For EDA <br/>
 📈 Power BI - For data visualization
 
 ## 1st Part
